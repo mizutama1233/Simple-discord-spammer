@@ -1,6 +1,9 @@
 # Simple-discord-spammer
 これはとてもシンプルなDiscordのSpammerです。
 
+No grabber (100%!)
+
+DMでも使えます。
 
 # How to use
 1. `pip install requests`
